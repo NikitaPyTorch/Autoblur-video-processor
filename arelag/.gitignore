@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+
+# Media inputs, generated outputs, and temporary audio
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wav
+*.aac
+*.mp3
