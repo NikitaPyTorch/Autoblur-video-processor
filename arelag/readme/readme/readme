@@ -1,0 +1,2 @@
+docker build -t arelag C:\Users\user\Desktop\arelag
+docker run --rm -v C:\Users\user\Desktop\arelag:/media arelag --video "/media/DatarailsFin.mp4" --disclaimer /media/disclaimer.jpg  --output "/media/newDatarailsFin.mp4"
